@@ -1,0 +1,2 @@
+By using the IV we actually make the encryption safer because when someone knows the message and the length he cannot be able to get some
+information about the algorithm of the encryption.In short fashion , it helps on semantic cryptography.
